@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tigran Gavaryan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiggav&label=Profile%20views&color=0e75b6&style=flat" alt="tiggav" /> </p>
 
-- 🔭 I’m currently working on **TribecaStudio**
+- 🔭 I’m currently working on **BrandTime** web app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
